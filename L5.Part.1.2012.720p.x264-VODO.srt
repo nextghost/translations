@@ -1,0 +1,1252 @@
+1
+00:00:14,895 --> 00:00:17,471
+Toto dílo je určeno k volnému šíření
+pod licencí Creative Commons
+
+2
+00:00:17,571 --> 00:00:19,932
+Uveďte autora-Nevyužívejte dílo
+komerčně-Žádná odvozená díla
+
+3
+00:00:20,032 --> 00:00:24,295
+Chcete vědět, co se bude dít dál?
+Řekněte o nás kamarádům
+
+4
+00:00:24,395 --> 00:00:28,678
+a mrkněte na naše skvělé nabídky
+na http://vodo.net/L5
+
+5
+00:00:38,077 --> 00:00:40,331
+Životu na Zemi už nebylo pomoci.
+
+6
+00:00:40,431 --> 00:00:44,585
+Zdroje naší planety byly vyčerpány,
+její schopnost udržet život slábla.
+
+7
+00:00:45,116 --> 00:00:48,503
+Lidstvu hrozilo vyhynutí
+během jen pár generací.
+
+8
+00:00:49,672 --> 00:00:52,772
+Lidstvo se jako vždy
+nepoddalo osudu a sjednotilo se,
+
+9
+00:00:52,872 --> 00:00:56,273
+aby vyslalo nejambicióznější
+misi ve své historii.
+
+10
+00:00:57,687 --> 00:01:01,153
+Renomovaný fyzik Dr. Richard Adams
+
+11
+00:01:01,253 --> 00:01:04,302
+dostal za úkol velet mezinárodnímu týmu
+těch nejlepších a nejchytřejších,
+
+12
+00:01:04,402 --> 00:01:10,971
+posádce lodi Argo, největší
+vesmírné lodi kdy vyrobené lidmi.
+
+13
+00:01:11,071 --> 00:01:15,826
+Doprovázel je Clarke, umělá inteligence
+s pozoruhodnými schopnostmi.
+
+14
+00:01:15,926 --> 00:01:18,430
+Jejich cíl: Barnard D
+
+15
+00:01:18,530 --> 00:01:21,379
+Svět, který by podle všeho
+dokázal udržet život
+
+16
+00:01:21,479 --> 00:01:26,287
+a možná i druhý domov pro lidi
+z naší umírající biosféry.
+
+17
+00:01:26,387 --> 00:01:28,547
+Mise by trvala dvě desetiletí.
+
+18
+00:01:28,647 --> 00:01:31,144
+Posádka by tomu musela hodně obětovat.
+
+19
+00:01:31,244 --> 00:01:34,710
+Přesto byli vázáni
+společným cílem najít nový domov.
+
+20
+00:01:34,810 --> 00:01:38,777
+Jenže po příletu zjistili,
+že jejich cesta byla zbytečná.
+
+21
+00:01:38,877 --> 00:01:41,005
+Barnard D nebyl žádný ráj.
+
+22
+00:01:41,105 --> 00:01:42,959
+Naopak byl stejně nestabilní
+a nehostinný
+
+23
+00:01:43,059 --> 00:01:45,715
+jako planeta, za kterou hledali náhradu.
+
+24
+00:01:46,016 --> 00:01:51,486
+Až se vrátí, 40 mužů a žen z posádky
+Arga se probudí z hlubokého spánku
+
+25
+00:01:51,586 --> 00:01:54,255
+a pozdraví Zemi strašlivou zprávou.
+
+26
+00:01:54,641 --> 00:01:58,907
+Ovšem svět, na který se vracejí,
+už není tím, který kdysi opouštěli.
+
+27
+00:02:17,319 --> 00:02:18,987
+Vidíš? Žádná světla.
+
+28
+00:02:19,087 --> 00:02:21,047
+Jo, ani jedno, co?
+
+29
+00:02:21,334 --> 00:02:23,331
+Říkals, že ta věc je na sklonu +42?
+
+30
+00:02:23,431 --> 00:02:25,334
+Sklon +52.
+
+31
+00:02:25,559 --> 00:02:28,333
+Fajn, přepni... dík.
+
+32
+00:02:34,484 --> 00:02:36,605
+Jak velký že tyhle věci byly?
+
+33
+00:02:36,705 --> 00:02:39,732
+Na jednu kolonii se vešly 3 miliony.
+
+34
+00:02:40,005 --> 00:02:42,764
+3 miliony lidí a ani jedno světlo?
+
+35
+00:02:42,864 --> 00:02:43,864
+To je divný, ne?
+
+36
+00:02:43,964 --> 00:02:46,176
+Upřímně, těžko říct.
+
+37
+00:02:46,276 --> 00:02:47,590
+Neměl bych to říct Richovi?
+
+38
+00:02:48,406 --> 00:02:50,886
+Jo, zrovna by se měl probouzet.
+
+39
+00:03:47,593 --> 00:03:48,973
+...brý ráno Clarku.
+
+40
+00:03:50,263 --> 00:03:51,867
+Jak dlouho jsem byl mimo?
+
+41
+00:03:52,568 --> 00:03:54,358
+Ten vtip tě nikdy neomrzí?
+
+42
+00:03:54,873 --> 00:03:55,898
+Nikdy.
+
+43
+00:03:56,805 --> 00:03:58,462
+- Hlášení?
+- Dvě.
+
+44
+00:03:59,294 --> 00:04:00,294
+Sakra. Tak co se stalo?
+
+45
+00:04:00,394 --> 00:04:02,910
+Malé množství mezihvězdné hmoty
+proniklo do lodi
+
+46
+00:04:03,010 --> 00:04:04,690
+a způsobilo krátký výpadek proudu,
+
+47
+00:04:04,790 --> 00:04:06,768
+který zasáhl vyživovací jednotku
+Layly Shinnové,
+
+48
+00:04:06,868 --> 00:04:10,275
+což způsobilo hypovolemický šok všech
+životně důležitých orgánů včetně mozku,
+
+49
+00:04:10,375 --> 00:04:11,739
+následkem čehož upadla do kómatu.
+
+50
+00:04:11,848 --> 00:04:14,206
+- Kdo se o ni...
+- Doktor Lewis.
+
+51
+00:04:14,385 --> 00:04:15,385
+A dál?
+
+52
+00:04:15,485 --> 00:04:20,190
+Doktor Anthony Baker onemocněl těžkým
+zánětem horních cest dýchacích a zemřel,
+
+53
+00:04:20,290 --> 00:04:22,274
+s největší pravděpodobností
+z důvodu sepse.
+
+54
+00:04:22,374 --> 00:04:26,227
+Dostupná antibiotika
+nebyla schopná infekci vyléčit.
+
+55
+00:04:26,327 --> 00:04:27,327
+Chudák Tony.
+
+56
+00:04:27,427 --> 00:04:29,916
+Zapečetil jsem jeho kryokomoru
+a umístil tělo do karantény.
+
+57
+00:04:30,204 --> 00:04:32,758
+Zapiš si, že pro něj pak musíme
+vystrojit nějaký pohřeb.
+
+58
+00:04:32,858 --> 00:04:34,494
+Richi, máme problém.
+
+59
+00:04:37,320 --> 00:04:38,681
+200 let?
+
+60
+00:04:40,437 --> 00:04:41,437
+Co se sakra stalo?
+
+61
+00:04:41,537 --> 00:04:44,164
+Nemáme ponětí. Porovnal jsem
+všechny vektory s tím,
+
+62
+00:04:44,264 --> 00:04:45,596
+co jsem uložil než jsme šli spát.
+
+63
+00:04:45,696 --> 00:04:48,734
+Všechno je stejné. Stejné delta-v,
+stejná vzdálenost periapsidy...
+
+64
+00:04:48,834 --> 00:04:50,577
+Když jsme spali,
+někdo musel dělat úpravy.
+
+65
+00:04:50,677 --> 00:04:51,677
+Jasně.
+
+66
+00:04:51,829 --> 00:04:53,104
+Clarku, víš o tom něco?
+
+67
+00:04:53,204 --> 00:04:54,620
+Richi, musím ti něco říct.
+
+68
+00:04:54,720 --> 00:04:55,720
+Richi.
+
+69
+00:05:00,501 --> 00:05:05,978
+Zkouším K-pásmo, mikrovlny,
+všechno. Ani jedna odpověď.
+
+70
+00:05:06,639 --> 00:05:07,769
+Odnikud.
+
+71
+00:05:08,259 --> 00:05:12,621
+Takže žádný signál, žádné spojení
+a máme 200 let zpoždění?
+
+72
+00:05:13,907 --> 00:05:17,136
+Třeba je to jenom závada,
+poslední generálka byla pěkně dávno.
+
+73
+00:05:17,236 --> 00:05:20,103
+Nevěřím, že je to tak jednoduché.
+Kasone, zkoušej to dál.
+
+74
+00:05:20,203 --> 00:05:22,694
+Dokud na něco nepřijdeme,
+tak o tom nikomu neříkejte. Jasné?
+
+75
+00:05:23,931 --> 00:05:25,068
+Fajn.
+
+76
+00:05:34,914 --> 00:05:37,032
+Notak lidi, slyšeli jste.
+Zpátky do práce.
+
+77
+00:05:45,904 --> 00:05:47,480
+- Čau Richi.
+- Charlie.
+
+78
+00:05:48,349 --> 00:05:49,349
+Jsi v pohodě?
+
+79
+00:05:49,449 --> 00:05:51,440
+Jo, zrovna jsem se probudil a...
+
+80
+00:05:52,065 --> 00:05:53,272
+pořád mám ztuhlý nohy.
+
+81
+00:05:53,372 --> 00:05:54,487
+Jo, to já taky.
+
+82
+00:05:55,215 --> 00:05:57,311
+A už víš, kdy budeme přistávat?
+
+83
+00:05:57,534 --> 00:06:01,807
+Brzo. Ještě musíme
+dořešit pár věcí, ale brzo.
+
+84
+00:06:02,327 --> 00:06:08,472
+Ale je to síla. Když jsme startovali,
+můj syn byl... takhle...
+
+85
+00:06:08,732 --> 00:06:11,786
+ale teď bude velkej
+jako já nebo větší a...
+
+86
+00:06:12,879 --> 00:06:15,038
+nejspíš už má i vlastní dítě.
+
+87
+00:06:15,138 --> 00:06:18,493
+Asi jsem přeskočil rodičovství
+a je ze mě rovnou dědeček.
+
+88
+00:06:18,593 --> 00:06:20,473
+Budeš mít to nejlepší z obojího.
+
+89
+00:06:21,855 --> 00:06:23,695
+Hele, zajdi si za doktorem Lewisem,
+
+90
+00:06:23,795 --> 00:06:25,614
+ať zkontroluje, jestli jsi
+v pořádku rozmrznul.
+
+91
+00:06:26,975 --> 00:06:29,643
+- Dobře? Dík, Charlie. Zatím.
+- Dobře.
+
+92
+00:06:47,529 --> 00:06:49,172
+Tohle vůbec nedává smysl.
+
+93
+00:06:51,074 --> 00:06:53,355
+Richi, musím ti něco říct.
+
+94
+00:06:54,455 --> 00:06:55,919
+Co je, Clarku?
+
+95
+00:06:56,083 --> 00:06:57,903
+Pozdržel jsem náš přílet.
+
+96
+00:07:00,355 --> 00:07:05,505
+Zachytil jsem signál. Byl slabý,
+ale rozeznal jsem jeho zdroj.
+
+97
+00:07:06,099 --> 00:07:08,021
+Nedá se to snadno
+přeložit do angličtiny,
+
+98
+00:07:08,121 --> 00:07:11,476
+ale dá se říct, že to vzbudilo
+mé nejhorší obavy.
+
+99
+00:07:11,576 --> 00:07:13,627
+- Bylo to ze Země?
+- Ano.
+
+100
+00:07:16,897 --> 00:07:19,152
+- Kdy? Když jsme byli v hyperspánku?
+- Ano.
+
+101
+00:07:19,252 --> 00:07:20,668
+Učinil jsem exekutivní rozhodnutí
+
+102
+00:07:20,768 --> 00:07:22,563
+a považoval jsem za nejlepší
+náš přílet pozdržet.
+
+103
+00:07:22,663 --> 00:07:23,663
+Co myslíš, že to znamená?
+
+104
+00:07:24,231 --> 00:07:26,509
+To nevím jistě. Ale napadá mne
+několik možností.
+
+105
+00:07:26,609 --> 00:07:27,891
+To mě taky.
+
+106
+00:07:27,991 --> 00:07:29,407
+Je některá z nich dobrá?
+
+107
+00:07:29,507 --> 00:07:30,507
+Ne.
+
+108
+00:07:31,751 --> 00:07:32,915
+Moje taky ne.
+
+109
+00:07:33,015 --> 00:07:34,646
+Mám informovat posádku?
+
+110
+00:07:34,746 --> 00:07:38,766
+Ne. Nešlo by to svést
+na něco přírodního? Něco...
+
+111
+00:07:39,806 --> 00:07:40,988
+co s tím nesouvisí?
+
+112
+00:07:41,946 --> 00:07:42,946
+Takže mám lhát?
+
+113
+00:07:43,046 --> 00:07:44,046
+Je to nutné?
+
+114
+00:07:44,146 --> 00:07:45,655
+Podle mě potřebujeme čas...
+
+115
+00:07:46,977 --> 00:07:49,850
+Čas se s tím vypořádat.
+Čas to všechno pochopit.
+
+116
+00:07:49,950 --> 00:07:54,442
+Nechápu, jak tomu pomůže lhaní.
+Časem na to všechno přijdou.
+
+117
+00:07:54,542 --> 00:07:56,441
+Bude to vypadat jako bys
+před nimi něco tajil.
+
+118
+00:07:56,541 --> 00:08:00,011
+Raději ať řeší budoucnost než abych
+potvrdil jejich nejhorší obavy.
+
+119
+00:08:00,948 --> 00:08:02,334
+Stejně to není rozumné.
+
+120
+00:08:02,434 --> 00:08:07,423
+A podle mě zase není rozumné říkat
+40 otcům, matkám, synům a dcerám,
+
+121
+00:08:07,523 --> 00:08:09,793
+že náš návrat byl pozdržen
+o pár století kvůli nějakému tušení.
+
+122
+00:08:09,893 --> 00:08:11,589
+Je to pravda.
+
+123
+00:08:12,674 --> 00:08:15,022
+Pravda je to poslední,
+co teď potřebujeme.
+
+124
+00:08:17,106 --> 00:08:18,737
+Nedává to moc smysl, co?
+
+125
+00:08:21,004 --> 00:08:22,445
+Ne, Richi.
+
+126
+00:08:23,865 --> 00:08:25,083
+Rozumím dokonale.
+
+127
+00:08:28,583 --> 00:08:29,869
+<i>Layla je mrtvá.</i>
+
+128
+00:08:30,582 --> 00:08:31,927
+Selhání orgánů.
+
+129
+00:08:34,224 --> 00:08:36,044
+Dal jsem ji zpátky do kryokomory.
+
+130
+00:08:36,869 --> 00:08:39,589
+Prozatím mi to připadalo
+jako nejlepší možnost.
+
+131
+00:08:42,338 --> 00:08:44,345
+Neřekneš k tomu něco?
+
+132
+00:08:44,984 --> 00:08:49,182
+K tomuhle průšvihu? Všichni o tom mluví.
+
+133
+00:08:50,104 --> 00:08:53,381
+Všechny zajímá, co s tím
+velitel Richard Adams bude dělat.
+
+134
+00:09:34,050 --> 00:09:36,064
+Hej, Clarku, spoj mě.
+
+135
+00:09:36,726 --> 00:09:38,241
+Jistě, Richi.
+
+136
+00:09:41,414 --> 00:09:43,280
+Prosím všechny o pozornost.
+
+137
+00:09:46,252 --> 00:09:50,495
+Chápu, že všichni máte
+spoustu otázek, ale nejprve fakta.
+
+138
+00:09:51,766 --> 00:09:53,988
+Nedošlo k žádné výpočetní chybě.
+
+139
+00:09:54,642 --> 00:09:58,543
+Skutečně jsme 198 let
+v lokální budoucnosti
+
+140
+00:09:59,011 --> 00:10:01,954
+173 po plánovaném času příletu.
+
+141
+00:10:03,299 --> 00:10:07,334
+Podle všeho se zdá,
+že probíhá komunikační ticho,
+
+142
+00:10:07,564 --> 00:10:11,101
+nebo se něco porouchalo na té stanici,
+které prozatím říkáme L5.
+
+143
+00:10:11,406 --> 00:10:13,643
+Jak jistě víte, ticho se týká i Země.
+
+144
+00:10:15,344 --> 00:10:19,580
+Clarke pracuje na scénáři
+s EPR komunikací,
+
+145
+00:10:19,907 --> 00:10:21,282
+ale může to chvíli trvat.
+
+146
+00:10:22,471 --> 00:10:26,966
+<i>Právě přestavujeme</i> Beagla 3
+na výlet dovnitř kolonie,
+
+147
+00:10:27,420 --> 00:10:28,576
+takže je nejlepší čas...
+
+148
+00:10:28,676 --> 00:10:32,651
+Už něco vypadlo z diagnostiky ohledně
+příčiny toho časového rozdílu?
+
+149
+00:10:33,204 --> 00:10:34,204
+Clarku?
+
+150
+00:10:34,304 --> 00:10:38,588
+Přiznávám, že rozhodnutí vrátit se
+v pozdější dobu jsem učinil sám.
+
+151
+00:10:38,826 --> 00:10:41,464
+V té době neexistovala možnost
+bezpečného návratu.
+
+152
+00:10:41,903 --> 00:10:46,019
+Lokální stav galaktického počasí
+nedovoloval přímé přiblížení.
+
+153
+00:10:46,175 --> 00:10:47,632
+Předtím jsme si toho nevšimli.
+
+154
+00:10:47,862 --> 00:10:49,709
+- A trvalo to 200 let?
+- Klid.
+
+155
+00:10:49,809 --> 00:10:52,024
+To mohu trochu osvětlit.
+
+156
+00:10:52,306 --> 00:10:55,543
+Možnost průletu se naskytla
+až teprve nedávno.
+
+157
+00:10:55,643 --> 00:10:59,692
+Optimálním řešením bylo akcelerovat
+a zvýšit tím dilataci času.
+
+158
+00:10:59,792 --> 00:11:02,431
+Důsledkem čehož bude loď
+bohužel potřebovat opravu
+
+159
+00:11:02,531 --> 00:11:06,737
+z důvodu bombardování gama zářením,
+na což v tuto chvíli nemáme vybavení.
+
+160
+00:11:07,614 --> 00:11:09,444
+Tak co s tím člunem?
+
+161
+00:11:09,544 --> 00:11:11,909
+Správná otázka, Rode, obleč si skafandr.
+
+162
+00:11:13,172 --> 00:11:14,172
+Jasně.
+
+163
+00:11:16,055 --> 00:11:18,775
+Richi, podařilo se nám
+s někým navázat kontakt?
+
+164
+00:11:19,132 --> 00:11:22,706
+Ostatní základny, lodi...
+Nebo zkoušíme jenom kolonie?
+
+165
+00:11:22,951 --> 00:11:25,669
+V éteru pár signálů poletuje,
+ale všechny tak poškozené,
+
+166
+00:11:25,769 --> 00:11:27,306
+že se nám z nich nepodařilo nic dostat.
+
+167
+00:11:27,752 --> 00:11:29,691
+- Takže...
+- Takže ne.
+
+168
+00:11:33,191 --> 00:11:37,271
+Chápu, že je to těžké, ale slibuju,
+že na tuhle záhadu přijdeme.
+
+169
+00:11:40,013 --> 00:11:42,108
+Takže pojďte zpátky do práce.
+
+170
+00:11:45,371 --> 00:11:46,389
+Adams konec.
+
+171
+00:12:12,471 --> 00:12:14,389
+Jestli se ten obraz nespraví,
+tak máme problém.
+
+172
+00:12:14,701 --> 00:12:18,394
+My tě v pohodě slyšíme.
+Určitě se to spraví.
+
+173
+00:12:37,120 --> 00:12:38,120
+Tady je dobrý místo.
+
+174
+00:12:39,149 --> 00:12:40,204
+Pošli ho napřed, Kasone.
+
+175
+00:13:03,812 --> 00:13:05,704
+- Co je s tím?
+- K čertu. Vůbec nic nevidím.
+
+176
+00:13:05,804 --> 00:13:07,543
+Beagle je celou dobu
+na radarovym autopilotu
+
+177
+00:13:07,643 --> 00:13:09,209
+a signál se nijak nezlepšil.
+
+178
+00:13:09,735 --> 00:13:12,114
+Fajn, tak mu přikaž,
+ať zůstane na místě.
+
+179
+00:13:12,214 --> 00:13:13,301
+Třeba bude fungovat pasiv...
+
+180
+00:13:25,109 --> 00:13:26,109
+Sakra.
+
+181
+00:13:26,492 --> 00:13:28,646
+Ty bláho. Zahučel tam jako cihla.
+
+182
+00:13:29,159 --> 00:13:30,958
+Promiň, Richi. Zrovna jsem ho ztratil.
+
+183
+00:13:31,114 --> 00:13:34,784
+To je v pohodě. Půjdeme se
+tam podívat. Čekej.
+
+184
+00:13:42,000 --> 00:13:44,724
+- Gama záblesk.
+- Ne.
+
+185
+00:13:44,824 --> 00:13:47,830
+To by vysvětlilo komunikační ticho i...
+
+186
+00:13:47,930 --> 00:13:49,810
+Podívej se z okna, Sam.
+
+187
+00:13:50,263 --> 00:13:52,530
+Já tam vidím vegetaci.
+
+188
+00:13:52,775 --> 00:13:55,068
+Po tak silném gama záblesku
+by tam nezbyla ani stopa života.
+
+189
+00:13:55,168 --> 00:13:56,420
+Zbyla by jen pustina.
+
+190
+00:13:56,520 --> 00:13:58,757
+Já říkám, že to byla sluneční bouře.
+
+191
+00:13:58,898 --> 00:14:01,536
+Nebo nějaký náraz. Asteroid nebo kometa.
+
+192
+00:14:01,804 --> 00:14:03,271
+A kde vidíš důkaz, Karle?
+
+193
+00:14:03,371 --> 00:14:07,254
+Tak velká bouře nebo náraz
+by zanechaly dost velkou stopu.
+
+194
+00:14:07,354 --> 00:14:09,595
+Mohlo se to trefit do oceánu.
+Pod hladinou to není vidět.
+
+195
+00:14:09,695 --> 00:14:13,849
+Na něco takového jsme byli připravení.
+Někdo by nám dal vědět.
+
+196
+00:14:14,332 --> 00:14:17,613
+Jane, podpoř mě. Gama záblesk.
+
+197
+00:14:17,713 --> 00:14:19,014
+Oba se mýlíte.
+
+198
+00:14:20,723 --> 00:14:24,416
+Nepřišlo to zvenku, ale zevnitř.
+
+199
+00:14:26,764 --> 00:14:29,729
+Agresivní a nakažlivý virus
+
+200
+00:14:30,064 --> 00:14:33,189
+způsobil mezi lidmi nějakou pandemii.
+
+201
+00:14:33,289 --> 00:14:36,750
+Nebo... ekologická katastrofa.
+
+202
+00:14:36,922 --> 00:14:38,549
+Zhroucení zemědělství.
+
+203
+00:14:38,988 --> 00:14:42,005
+V každém případě
+vznikla příčina na Zemi.
+
+204
+00:14:42,105 --> 00:14:44,149
+Nejspíš nás to vrátilo zpátky
+do preindustriálního světa.
+
+205
+00:14:44,249 --> 00:14:47,345
+A stalo se to přes noc,
+že nikdo neposlal zprávu?
+
+206
+00:14:47,445 --> 00:14:50,090
+Preindustriální znamená,
+že by to nezabilo všechny, Jane.
+
+207
+00:14:50,603 --> 00:14:53,668
+Po světě by přežily hrstky lidí
+a nějak navázaly kontakt.
+
+208
+00:14:53,768 --> 00:14:56,529
+A vážně nevěřím, že viry
+zabíjí radiové antény.
+
+209
+00:14:56,629 --> 00:14:58,576
+Chtěli jste slyšet můj názor,
+tak ho říkám.
+
+210
+00:15:00,716 --> 00:15:02,121
+A co mimozemšťani?
+
+211
+00:15:04,521 --> 00:15:08,166
+Co když jsme navázali kontakt
+a oni nás pak vyhladili?
+
+212
+00:15:08,266 --> 00:15:11,130
+Něco jako conquistadoři
+a Aztékové nebo...
+
+213
+00:15:11,816 --> 00:15:15,629
+něco jako mimozemskej ekvivalent
+přikrývek s neštovicema.
+
+214
+00:15:16,329 --> 00:15:19,893
+Takže se tu zjevili mimozemšťani,
+
+215
+00:15:20,099 --> 00:15:23,102
+rozdali deky, které všechny zabily,
+
+216
+00:15:23,203 --> 00:15:24,800
+a pak zase jen tak odletěli?
+
+217
+00:15:26,272 --> 00:15:27,669
+Je to možné.
+
+218
+00:15:28,553 --> 00:15:30,663
+Ty už raději mlč.
+
+219
+00:15:31,280 --> 00:15:33,636
+Tak dost. Máte někdo tužku?
+
+220
+00:16:06,815 --> 00:16:08,918
+Richi, tohle musíš vidět.
+
+221
+00:16:39,028 --> 00:16:40,574
+Kde jsou všichni?
+
+222
+00:16:43,323 --> 00:16:44,520
+Kdo ví.
+
+223
+00:18:04,098 --> 00:18:05,128
+Rode!
+
+224
+00:18:06,395 --> 00:18:09,382
+- Jsi v pořádku?
+- Sundej to ze mě!
+
+225
+00:18:11,507 --> 00:18:13,629
+Moment, moment, moment.
+Máš to vražený ve skafandru.
+
+226
+00:18:13,729 --> 00:18:14,729
+Sundej to.
+
+227
+00:18:14,829 --> 00:18:16,549
+Jestli s tím pohnu,
+roztrhám ti skafandr.
+
+228
+00:18:16,649 --> 00:18:20,855
+To nevadí, nanotmel to ucpe.
+Už jsem přišel o 20% kyslíku.
+
+229
+00:18:20,955 --> 00:18:25,022
+APU nechce naskočit.
+Vypadlo mi napájení většiny systémů.
+
+230
+00:18:25,122 --> 00:18:27,428
+- Sundej to.
+- Počkej, nech mě myslet.
+
+231
+00:18:27,528 --> 00:18:29,549
+Drtí mi to skafandr, Richi!
+
+232
+00:18:30,193 --> 00:18:33,146
+Náslunečné obchodní centrum
+Železářství Tyrell
+
+233
+00:18:35,365 --> 00:18:37,144
+Náslunečné obchodní cent
+Železářství Tyrell
+
+234
+00:18:47,584 --> 00:18:49,115
+Ani se nehne.
+
+235
+00:19:02,275 --> 00:19:03,531
+Vydrž Rode.
+
+236
+00:19:35,321 --> 00:19:36,517
+Fajn, Rode.
+
+237
+00:19:36,801 --> 00:19:38,543
+Raz! Dva!
+
+238
+00:19:38,643 --> 00:19:39,643
+Tři!
+
+239
+00:19:56,900 --> 00:19:57,900
+Richi?
+
+240
+00:19:59,330 --> 00:20:00,330
+Richi!
+
+241
+00:20:02,214 --> 00:20:03,214
+Richi!
+
+242
+00:20:19,721 --> 00:20:22,277
+Nezapomeň na zřetelnou vegetaci.
+
+243
+00:20:23,875 --> 00:20:27,405
+Fajn. Podle toho, co víme,
+
+244
+00:20:28,571 --> 00:20:31,682
+všechno ukazuje na nějaké
+vyvržení koronální hmoty.
+
+245
+00:20:31,782 --> 00:20:34,223
+A jestli bylo dost velké,
+
+246
+00:20:34,323 --> 00:20:38,826
+radiace by měla
+ničivý dopad na populaci.
+
+247
+00:20:39,104 --> 00:20:40,104
+To by šlo.
+
+248
+00:20:44,667 --> 00:20:47,000
+Jestli je to tak, kde jsou všichni?
+
+249
+00:20:48,234 --> 00:20:50,968
+Určitě by to někdo přežil.
+
+250
+00:20:52,269 --> 00:20:53,269
+Že jo.
+
+251
+00:21:08,520 --> 00:21:11,470
+Ukončit nahrávání dat? - A/N
+
+252
+00:21:44,182 --> 00:21:45,182
+Budíček.
+
+253
+00:21:47,756 --> 00:21:49,517
+Už jsem se bál,
+že jsem tě ztratil, šéfe.
+
+254
+00:21:51,130 --> 00:21:52,408
+Jak se cítíš?
+
+255
+00:21:57,959 --> 00:21:58,977
+Je mi horko.
+
+256
+00:21:59,764 --> 00:22:00,764
+Vtipný.
+
+257
+00:22:01,303 --> 00:22:03,279
+Přehřála se ti chladící kapalina.
+
+258
+00:22:03,383 --> 00:22:05,731
+Mně taky. Musel jsem
+nám oběma zresetovat chlazení.
+
+259
+00:22:06,242 --> 00:22:07,242
+Prozatím to vydrží.
+
+260
+00:22:07,689 --> 00:22:08,689
+Tak se zvedej.
+
+261
+00:22:13,839 --> 00:22:15,886
+Vrátíme se zpátky na loď.
+
+262
+00:22:15,986 --> 00:22:17,822
+Ne, hledáme dál.
+
+263
+00:22:20,051 --> 00:22:22,622
+Mně se to nelíbí, Richi.
+Naše skafandry dostaly dost zabrat.
+
+264
+00:22:29,317 --> 00:22:31,718
+Ať chceme nebo ne,
+tudy se vrátit nemůžeme.
+
+265
+00:22:36,264 --> 00:22:37,264
+Úžasný.
+
+266
+00:22:42,433 --> 00:22:44,477
+Jak dlouho je to tu
+podle tebe v tomhle stavu?
+
+267
+00:22:48,296 --> 00:22:50,466
+Těžko říct, ale hodlám to zjistit.
+
+268
+00:23:02,920 --> 00:23:04,243
+Něco kolem 8 kilometrů.
+
+269
+00:23:05,254 --> 00:23:06,759
+Kyslík na 8 hodin.
+
+270
+00:23:06,859 --> 00:23:09,110
+Ty máš 8, já 6.
+
+271
+00:23:09,237 --> 00:23:12,298
+Nejlepší šance je dojít
+k té spojovací věži,
+
+272
+00:23:12,967 --> 00:23:15,427
+Zkusit vylézt do slabší gravitace
+a přeletět to.
+
+273
+00:23:15,880 --> 00:23:19,447
+Spíš je to výmluva, proč to tu
+dál prohledávat, Richi.
+
+274
+00:23:21,631 --> 00:23:23,668
+Prostě půjdeme dál.
+Zastavíme, až něco najdeme.
+
+275
+00:23:23,876 --> 00:23:24,876
+No jasně.
+
+276
+00:23:25,644 --> 00:23:27,606
+A pak nám dojde kyslík a udusíme se.
+
+277
+00:23:28,401 --> 00:23:29,828
+Nebo spadnem a zlámeme si kosti.
+
+278
+00:23:30,341 --> 00:23:33,005
+A když budeme mít kliku,
+tak napřed omdlíme únavou.
+
+279
+00:23:33,105 --> 00:23:34,443
+Jdeme.
+
+280
+00:23:36,246 --> 00:23:38,132
+Aspoň to vysvětluje, proč jsme
+ztratili kontakt s...
+
+281
+00:23:38,232 --> 00:23:40,157
+Nevysvětluje to vůbec nic, Rode.
+
+282
+00:23:50,972 --> 00:23:54,464
+Překlad: Martin Doucha
+Česká pirátská strana
+
