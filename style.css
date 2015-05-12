@@ -2,6 +2,10 @@ body {
 	font-family: sans-serif;
 }
 
+#story {
+	font-family: serif;
+}
+
 .navbox {
 	position: fixed;
 	top: 0px;
@@ -17,4 +21,8 @@ body {
 
 .navbox:hover .links {
 	display: block;
+}
+
+#metadata td {
+	padding-right: 1em;
 }
